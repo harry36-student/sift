@@ -23,5 +23,5 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 
 ## 📫 Contact Me
 - Email: yuhome31@gmail.com
-- Technical Blog: [tistory](https://harry36-student.github.io/AI/)
-- LinkedIn: [linkedin.com/in/yuyoungzha](https://www.linkedin.com/in/yuyoungzha/))
+- Blog: [Self-introduction website](https://harry36-student.github.io/AI/)
+- LinkedIn: [linkedin.com/in/yuyoungzha](https://www.linkedin.com/in/yuyoungzha/)
