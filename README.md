@@ -11,7 +11,7 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 
 MongoDB
 - **[Securing MongoDB Atlas: Authentication & Authorization]**(https://www.credly.com/badges/72ac0d44-0eb6-4cd3-9642-e9a4d413ba9c)
-  
+    
 Google
 - **[Google Cloud Data Analytics Certificate]**(https://www.credly.com/badges/493f635d-f8ff-4c06-870c-1a4ce4991069)
   
