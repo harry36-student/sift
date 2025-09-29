@@ -16,19 +16,26 @@ Google
 - **[Google Cloud Data Analytics Certificate]**(https://www.credly.com/badges/493f635d-f8ff-4c06-870c-1a4ce4991069)
   
 ##  Events
+Google
+
 - **Google Developer Student Clubs LHU 2023-2024**: Lead 
 - **DevFest Taipei 2023**: Staff
 
+Microsoft
 
+- **DevDays Asia 2023** : Attend 
+NOTE:[NOTE](https://hackmd.io/X_KDlohLRsOEcP_xbfo-bA)
+- **DevDays Asia 2024** : Attend 
+NOTE:[NOTE](https://hackmd.io/ava5A_-CTCGZQMsAD_98Rg)
+- **DevDays Asia 2025** : Attend 
+NOTE: Notes are not currently prepared
 
+AWS 
 
-
-
-
-
-
-
-
+- **AWS 雲端科技發表會(AWS Cloud Technology Conference ,Taiwan)**
+NOTE: Notes are not currently prepared
+- **AWS re:Invent re:Cap**
+NOTE:[NOTE](https://hackmd.io/@yu-hary/ryWGBWPSJx)
 
 
 ## 📫 Contact Me
