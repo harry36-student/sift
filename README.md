@@ -11,10 +11,10 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 
 MongoDB
 
-#####[Security]#####
+Security
 - **[Securing MongoDB Atlas: Authentication & Authorization]**(https://www.credly.com/badges/72ac0d44-0eb6-4cd3-9642-e9a4d413ba9c)
 
-#####[Gen AI]#####
+Gen AI
 - **[Building AI-Powered Search with MongoDB Vector Search]**(https://www.credly.com/badges/1ea68b06-bde8-4329-aaa5-f477fa7699c2)4
 
 Google
