@@ -15,7 +15,7 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 - **[Securing MongoDB Atlas: Authentication & Authorization]**(https://www.credly.com/badges/72ac0d44-0eb6-4cd3-9642-e9a4d413ba9c)
 
 #### Gen AI ####
-- **[Building AI-Powered Search with MongoDB Vector Search]**(https://www.credly.com/badges/1ea68b06-bde8-4329-aaa5-f477fa7699c2)4
+- **[Building AI-Powered Search with MongoDB Vector Search]**(https://www.credly.com/badges/1ea68b06-bde8-4329-aaa5-f477fa7699c2)
 
 ## Google ##
 - **[Google Cloud Data Analytics Certificate]**(https://www.credly.com/badges/493f635d-f8ff-4c06-870c-1a4ce4991069)
