@@ -7,7 +7,7 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 
 ### Familiar With
 - **python**
-### Self-study experience
+# Self-study experience
 
 ## MongoDB ##
 
