@@ -37,9 +37,9 @@ NOTE: Notes are not currently prepared
 
 AWS 
 
-- ** 2024 AWS 雲端科技發表會(AWS Cloud Technology Conference ,Taiwan) **
+- **2024 AWS 雲端科技發表會(AWS Cloud Technology Conference ,Taiwan)**
 NOTE: Notes are not currently prepared
-- ** 2025  AWS re:Invent re:Cap **
+- **2025  AWS re:Invent re:Cap**
 NOTE:[NOTE](https://hackmd.io/@yu-hary/ryWGBWPSJx)
 
 
