@@ -46,7 +46,7 @@ NOTE:[NOTE](https://hackmd.io/@yu-hary/ryWGBWPSJx)
 Conference  
 
 - **ISMDS 2025** : Attend (Student Essay Competition-Graduate Master Session)
-Link:[link](Conference)
+Link:[link](https://www.mdsat.org.tw/ismds2025)
 
 
 ## 📫 Contact Me
