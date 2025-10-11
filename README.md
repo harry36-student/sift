@@ -43,7 +43,7 @@ NOTE: Notes are not currently prepared
 - **2025  AWS re:Invent re:Cap**
 NOTE:[NOTE](https://hackmd.io/@yu-hary/ryWGBWPSJx)
 
-Conference  
+Conference  -Master
 
 - **ISMDS 2025** : Attend (Student Essay Competition-Graduate Master Session)
 Link:[link](https://www.mdsat.org.tw/ismds2025)
