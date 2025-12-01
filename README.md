@@ -49,7 +49,8 @@ Conference  -Master
 Attend (Student Essay Competition-Graduate Master Session),[It is not yet known whether the paper has been included.]
 Link:[link](https://www.mdsat.org.tw/ismds2025)
 
-
+- **Awards** :
+2025金大通識文學獎徵文比賽-詩詞類(第一名)
 
 ## 📫 Contact Me
 - Email: yuhome31@gmail.com
