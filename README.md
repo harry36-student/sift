@@ -55,5 +55,5 @@ Awards
 
 ## 📫 Contact Me
 - Email: yuhome31@gmail.com
-- Blog: [Self-introduction website]([https://harry36-student.github.io/AI/](https://harry36-student.github.io/profilewebsite/))
+- Blog: [Self-introduction website](htps://harry36-student.github.io/AI/](https://harry36-student.github.io/profilewebsite  )
 - LinkedIn: [linkedin.com/in/yuyoungzha](https://www.linkedin.com/in/yuyoungzha/)
