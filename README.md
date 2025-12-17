@@ -51,9 +51,9 @@ Link:[link](https://www.mdsat.org.tw/ismds2025)
 
 Awards
 
-2025金大通識文學獎徵文比賽-詩詞類(第一名)
+2025 NQU General Education Literature Award Essay Competition - Poetry Category (First Place)
 
 ## 📫 Contact Me
-- Email: yuhome31@gmail.com
+- Email:  [Gmail](yuhome31@gmail.com)
 - Blog: [Self-introduction website](https://harry36-student.github.io/profilewebsite)
 - LinkedIn: [linkedin.com/in/yuyoungzha](https://www.linkedin.com/in/yuyoungzha/)
