@@ -54,6 +54,6 @@ Awards
 2025 NQU General Education Literature Award Essay Competition - Poetry Category (First Place)
 
 ## 📫 Contact Me
-- Email:  [Gmail](yuhome31@gmail.com)
+- Email:  yuhome31@gmail.com
 - Blog: [Self-introduction website](https://harry36-student.github.io/profilewebsite)
 - LinkedIn: [linkedin.com/in/yuyoungzha](https://www.linkedin.com/in/yuyoungzha/)
