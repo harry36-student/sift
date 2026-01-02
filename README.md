@@ -48,10 +48,11 @@ Conference  -Master
 - **ISMDS 2025** :
 Attend (Student Essay Competition-Graduate Master Session),[It is not yet known whether the paper has been included.]
 Link:[link](https://www.mdsat.org.tw/ismds2025)
+seminar paper:[A Study on Lung Cancer CT Classification using Federated Learning and Explainable AI techniques](https://arspb.nstc.gov.tw/NSCWebFront/modules/talentSearch/talentSearch.do?action=initRsm05&rsNo=ea262f8df4fd4b619408272bf5409ec7&LANG=chi)
 
 Awards
 
-2025 NQU General Education Literature Award Essay Competition - Poetry Category (First Place)
+2025 NQU General Education Literature Award Essay Competition - Poetry Category (40 people participated and won first place.)
 
 ## 📫 Contact Me
 - Email:  yuhome31@gmail.com
