@@ -28,8 +28,8 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 ##  Events
 Google
 
-**Google Developer Student Clubs LHU 2023-2024**: Lead 
-**DevFest Taipei 2023**: Staff
+**1. Google Developer Student Clubs LHU 2023-2024**: Lead 
+**2. Google DevFest Taipei 2023**: Staff
 
 Microsoft
 
