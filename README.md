@@ -33,9 +33,9 @@ Google
 2. Google DevFest Taipei 2023: Staff
 
 ##  Events ##
-Google
-*1.Google cloud day 2024*
-*2.Google cloud day 2025*
+Google<br/>
+*1.Google cloud day 2024*<br/>
+*2.Google cloud day 2025*<br/>
 *3.Google cloud day 2026*
 
 
