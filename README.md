@@ -24,12 +24,20 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 
 **2. [Gemini Certified Educator]**
 (https://edu.google.accredible.com/9c0cb820-9e01-479f-b8af-1da68739a4f9?key=dc81fd5e74a162667edc6a62ce5f6436df5861ae664e13280359f257665e4ef1#acc.7Gv0i6mB)
-  
+
+
+##  Community ##
+Google
+
+1. Google Developer Student Clubs LHU 2023-2024: Lead
+2. Google DevFest Taipei 2023: Staff
+
 ##  Events ##
 Google
 
-**1. Google Developer Student Clubs LHU 2023-2024**: Lead 
-**2. Google DevFest Taipei 2023**: Staff
+Google cloud day 2024
+Google cloud day 2025
+Google cloud day 2026 
 
 Microsoft
 
@@ -41,7 +49,6 @@ NOTE:[NOTE](https://hackmd.io/ava5A_-CTCGZQMsAD_98Rg)
 NOTE: Notes are not currently prepared
 
 AWS 
-
 
 **2024 AWS 雲端科技發表會(AWS Cloud Technology Conference ,Taiwan)**
 NOTE: Notes are not currently prepared
