@@ -32,6 +32,11 @@ Google
 1. Google Developer Student Clubs LHU 2023-2024: Lead
 2. Google DevFest Taipei 2023: Staff
 
+Java
+
+1.JCConf 2025 :Staff
+2.JCConf 2026 :Staff
+
 ##  Events ##
 Google<br/>
 *1.Google cloud day 2024*<br/>
@@ -42,26 +47,26 @@ Google<br/>
 Microsoft
 
 **DevDays Asia 2023** : Attend 
-NOTE:[NOTE](https://hackmd.io/X_KDlohLRsOEcP_xbfo-bA)
+NOTE:[NOTE](https://hackmd.io/X_KDlohLRsOEcP_xbfo-bA)<br/>
 **DevDays Asia 2024** : Attend 
-NOTE:[NOTE](https://hackmd.io/ava5A_-CTCGZQMsAD_98Rg)
+NOTE:[NOTE](https://hackmd.io/ava5A_-CTCGZQMsAD_98Rg)<br/>
 **DevDays Asia 2025** : Attend 
 NOTE: Notes are not currently prepared
 
 AWS 
 
 **2024 AWS 雲端科技發表會(AWS Cloud Technology Conference ,Taiwan)**
-NOTE: Notes are not currently prepared
+NOTE: Notes are not currently prepared<br/>
 **2025  AWS re:Invent re:Cap**
-NOTE:[NOTE](https://hackmd.io/@yu-hary/ryWGBWPSJx)
+NOTE:[NOTE](https://hackmd.io/@yu-hary/ryWGBWPSJx)<br/>
 
 Conference  -Master
 
 **ISMDS 2025** :
-Attend (Student Essay Competition-Graduate Master Session),[It is not yet known whether the paper has been included.]
+Attend (Student Essay Competition-Graduate Master Session),[It is not yet known whether the paper has been included.]<br/>
 Link:[link](https://www.mdsat.org.tw/ismds2025)
 seminar paper:[A Study on Lung Cancer CT Classification using Federated Learning and Explainable AI techniques](https://arspb.nstc.gov.tw/NSCWebFront/modules/talentSearch/talentSearch.do?action=initRsm05&rsNo=ea262f8df4fd4b619408272bf5409ec7&LANG=chi)
-
+<br/>
 Awards
 
 2025 NQU General Education Literature Award Essay Competition - Poetry Category (40 people participated and won first place.)
