@@ -18,9 +18,9 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 **[Building AI-Powered Search with MongoDB Vector Search]**(https://www.credly.com/badges/1ea68b06-bde8-4329-aaa5-f477fa7699c2)
 
 ## Google ##
-**1. [Google Cloud Data Analytics Certificate]**
+-- **1. [Google Cloud Data Analytics Certificate]**
 (https://www.credly.com/badges/493f635d-f8ff-4c06-870c-1a4ce4991069)
-**2. [Gemini Certified Educator]**
+-- **2. [Gemini Certified Educator]**
 (https://edu.google.accredible.com/9c0cb820-9e01-479f-b8af-1da68739a4f9?key=dc81fd5e74a162667edc6a62ce5f6436df5861ae664e13280359f257665e4ef1#acc.7Gv0i6mB)
   
 ##  Events
