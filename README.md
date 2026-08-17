@@ -29,13 +29,13 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 ##  Community ##
 Google
 
-1. Google Developer Student Clubs LHU 2023-2024: Lead
-2. Google DevFest Taipei 2023: Staff
+1. Google Developer Student Clubs LHU 2023-2024: Lead<br/>
+2. Google DevFest Taipei 2023: Staff<br/>
 
 Java
 
-1.JCConf 2025 :Staff
-2.JCConf 2026 :Staff
+1. JCConf 2025 :Staff <br/>
+2. JCConf 2026 :Staff <br/>
 
 ##  Events ##
 Google<br/>
