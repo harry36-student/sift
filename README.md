@@ -33,6 +33,7 @@ Google
 
 Microsoft
 
+
 **DevDays Asia 2023** : Attend 
 NOTE:[NOTE](https://hackmd.io/X_KDlohLRsOEcP_xbfo-bA)
 **DevDays Asia 2024** : Attend 
@@ -41,6 +42,7 @@ NOTE:[NOTE](https://hackmd.io/ava5A_-CTCGZQMsAD_98Rg)
 NOTE: Notes are not currently prepared
 
 AWS 
+
 
 **2024 AWS 雲端科技發表會(AWS Cloud Technology Conference ,Taiwan)**
 NOTE: Notes are not currently prepared
