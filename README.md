@@ -34,10 +34,10 @@ Google
 
 ##  Events ##
 Google
+*1.Google cloud day 2024*
+*2.Google cloud day 2025*
+*3.Google cloud day 2026*
 
-Google cloud day 2024
-Google cloud day 2025
-Google cloud day 2026 
 
 Microsoft
 
