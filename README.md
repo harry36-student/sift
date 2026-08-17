@@ -18,34 +18,34 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 **[Building AI-Powered Search with MongoDB Vector Search]**(https://www.credly.com/badges/1ea68b06-bde8-4329-aaa5-f477fa7699c2)
 
 ## Google ##
-- **[Google Cloud Data Analytics Certificate]**(https://www.credly.com/badges/493f635d-f8ff-4c06-870c-1a4ce4991069)
-- **[Gemini Certified Educator]**(https://edu.google.accredible.com/9c0cb820-9e01-479f-b8af-1da68739a4f9?key=dc81fd5e74a162667edc6a62ce5f6436df5861ae664e13280359f257665e4ef1#acc.7Gv0i6mB)
+**[Google Cloud Data Analytics Certificate]**(https://www.credly.com/badges/493f635d-f8ff-4c06-870c-1a4ce4991069)
+**[Gemini Certified Educator]**(https://edu.google.accredible.com/9c0cb820-9e01-479f-b8af-1da68739a4f9?key=dc81fd5e74a162667edc6a62ce5f6436df5861ae664e13280359f257665e4ef1#acc.7Gv0i6mB)
   
 ##  Events
 Google
 
-- **Google Developer Student Clubs LHU 2023-2024**: Lead 
-- **DevFest Taipei 2023**: Staff
+**Google Developer Student Clubs LHU 2023-2024**: Lead 
+**DevFest Taipei 2023**: Staff
 
 Microsoft
 
-- **DevDays Asia 2023** : Attend 
+**DevDays Asia 2023** : Attend 
 NOTE:[NOTE](https://hackmd.io/X_KDlohLRsOEcP_xbfo-bA)
-- **DevDays Asia 2024** : Attend 
+**DevDays Asia 2024** : Attend 
 NOTE:[NOTE](https://hackmd.io/ava5A_-CTCGZQMsAD_98Rg)
-- **DevDays Asia 2025** : Attend 
+**DevDays Asia 2025** : Attend 
 NOTE: Notes are not currently prepared
 
 AWS 
 
-- **2024 AWS 雲端科技發表會(AWS Cloud Technology Conference ,Taiwan)**
+**2024 AWS 雲端科技發表會(AWS Cloud Technology Conference ,Taiwan)**
 NOTE: Notes are not currently prepared
-- **2025  AWS re:Invent re:Cap**
+**2025  AWS re:Invent re:Cap**
 NOTE:[NOTE](https://hackmd.io/@yu-hary/ryWGBWPSJx)
 
 Conference  -Master
 
-- **ISMDS 2025** :
+**ISMDS 2025** :
 Attend (Student Essay Competition-Graduate Master Session),[It is not yet known whether the paper has been included.]
 Link:[link](https://www.mdsat.org.tw/ismds2025)
 seminar paper:[A Study on Lung Cancer CT Classification using Federated Learning and Explainable AI techniques](https://arspb.nstc.gov.tw/NSCWebFront/modules/talentSearch/talentSearch.do?action=initRsm05&rsNo=ea262f8df4fd4b619408272bf5409ec7&LANG=chi)
