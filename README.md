@@ -14,7 +14,7 @@
 
 I'm a passionate developer who thrives on **learning new technologies** and **collaborating with like-minded individuals**. I enjoy contributing to both personal and team projects, with a focus on cloud technologies, AI, and data analytics.
 
-- 🎓 Currently pursuing graduate studies in Computer Science
+- 🎓 I have graduated from the Department of Information Engineering.
 - 🌟 Active in tech communities (Google, Java, AWS)
 - 🚀 Certified in Cloud, AI, and Data Analytics
 - 💡 Interested in Federated Learning & Explainable AI
